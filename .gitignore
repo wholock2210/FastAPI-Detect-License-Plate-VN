@@ -25,3 +25,6 @@ venv/
 
 # External git repo
 sort/
+
+#debug image
+debug_thresh.jpg
