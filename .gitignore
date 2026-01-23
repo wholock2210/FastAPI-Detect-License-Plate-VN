@@ -16,7 +16,6 @@ venv/
 .DS_Store
 
 # Model / cache (nếu có)
-*.pt
 *.onnx
 *.weights
 
