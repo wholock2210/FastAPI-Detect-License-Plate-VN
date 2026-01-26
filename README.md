@@ -22,11 +22,6 @@ Simply send an image to the API, and it will return the detected license plate i
 git clone https://github.com/abewley/sort
 ```
 
-* [Uvicron](https://uvicorn.dev/)
-```bash
-pip install uvicorn
-```
-
 ## Project Setup
 
 * Make an environment with python=3.10 using the following command 
@@ -47,7 +42,13 @@ source activate ./env
 
 ``` bash
 source ./.venv/bin/activate.fish
-``` 
+```
+
+* [Uvicron](https://uvicorn.dev/)
+```bash
+pip install uvicorn
+```
+
 * Install the project dependencies using the following command 
 ```bash
 pip install -r requirements.txt
