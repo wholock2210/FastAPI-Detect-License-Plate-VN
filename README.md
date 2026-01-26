@@ -44,14 +44,14 @@ source activate ./env
 source ./.venv/bin/activate.fish
 ```
 
-* [Uvicron](https://uvicorn.dev/)
-```bash
-pip install uvicorn
-```
-
 * Install the project dependencies using the following command 
 ```bash
 pip install -r requirements.txt
+```
+
+* [Uvicron](https://uvicorn.dev/)
+```bash
+pip install uvicorn
 ```
 
 * Run the project using commands.
